@@ -12,7 +12,7 @@ public class Move : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         Vector3 curr = transform.position;
-        transform.position = Vector3.Lerp(curr, next, Time.deltaTime*3);
+        transform.position = Vector3.Lerp(curr, next, Time.deltaTime*10);
     }
 
     public void OnMove(Position pos)
