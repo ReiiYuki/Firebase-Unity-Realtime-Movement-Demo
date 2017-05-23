@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "411688402322",
+    "firebase_url": "https://realtime-movement-unity-demo.firebaseio.com",
+    "project_id": "realtime-movement-unity-demo",
+    "storage_bucket": "realtime-movement-unity-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:411688402322:android:7ad250247520dfd6",
+        "android_client_info": {
+          "package_name": "com.yukireii.demomovementunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "411688402322-a4fb338h1fbd0qjlo029fbaoa8cjb448.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFg-3zrne-uRQJO6X9V1zGwO-ib6GrFlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

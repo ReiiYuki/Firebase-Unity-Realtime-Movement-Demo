@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+  <string name="firebase_database_url" translatable="false">https://realtime-movement-unity-demo.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">411688402322</string>
+  <string name="google_storage_bucket" translatable="false">realtime-movement-unity-demo.appspot.com</string>
+  <string name="project_id" translatable="false">realtime-movement-unity-demo</string>
+  <string name="google_api_key" translatable="false">AIzaSyCFg-3zrne-uRQJO6X9V1zGwO-ib6GrFlc</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCFg-3zrne-uRQJO6X9V1zGwO-ib6GrFlc</string>
+  <string name="google_app_id" translatable="false">1:411688402322:android:7ad250247520dfd6</string>
+  <string name="default_web_client_id" translatable="false">411688402322-a4fb338h1fbd0qjlo029fbaoa8cjb448.apps.googleusercontent.com</string>
+</resources>
